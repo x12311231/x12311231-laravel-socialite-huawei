@@ -1,4 +1,4 @@
-# Weixin
+# Huawei
 
 ```bash
 composer require x12311231-laravel-socialite/huawei
