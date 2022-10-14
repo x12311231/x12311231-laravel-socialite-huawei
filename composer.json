@@ -1,0 +1,21 @@
+{
+    "name": "x12311231-laravel-socialite/huawei",
+    "description": "Huawei OAuth2 Provider for Laravel Socialite",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "x12311231",
+            "email": "yinew8@qq.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2 || ^8.0",
+        "ext-json": "*",
+        "socialiteproviders/manager": "~4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "X12311231LaravelSocialite\\huawei\\": ""
+        }
+    }
+}
