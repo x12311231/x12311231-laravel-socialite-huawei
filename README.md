@@ -44,6 +44,6 @@ return Socialite::driver('huawei')->redirect();
 ### Returned User fields
 
 - ``id``
-- ``unionid``
+- ``openid``
 - ``nickname``
 - ``avatar``
